@@ -1,0 +1,2 @@
+C++ must be version 17 or later for filesystem to work
+I faced some issues when my files weren't inside the project folder (I assume due to my OS blocking it for security reasons) however I am not sure if this is for all devices.
